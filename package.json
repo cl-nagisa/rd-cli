@@ -1,0 +1,21 @@
+{
+  "bin": {
+    "rongdu": "bin/rongdu.js"
+  },
+  "name": "rongdu-cli",
+  "version": "1.0.1",
+  "description": "融都后台管理系统模板脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "furukawa_nagisa",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.3.3",
+    "ora": "^5.3.0"
+  }
+}
